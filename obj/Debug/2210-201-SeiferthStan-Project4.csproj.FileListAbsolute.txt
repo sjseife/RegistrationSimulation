@@ -1,0 +1,10 @@
+F:\visual studio 2012\Projects\2210-201-SeiferthStan-Project4\2210-201-SeiferthStan-Project4\bin\Debug\2210-201-SeiferthStan-Project4.exe.config
+F:\visual studio 2012\Projects\2210-201-SeiferthStan-Project4\2210-201-SeiferthStan-Project4\bin\Debug\2210-201-SeiferthStan-Project4.exe
+F:\visual studio 2012\Projects\2210-201-SeiferthStan-Project4\2210-201-SeiferthStan-Project4\bin\Debug\2210-201-SeiferthStan-Project4.pdb
+F:\visual studio 2012\Projects\2210-201-SeiferthStan-Project4\2210-201-SeiferthStan-Project4\obj\Debug\2210-201-SeiferthStan-Project4.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\Projects\2210-201-SeiferthStan-Project4\2210-201-SeiferthStan-Project4\obj\Debug\_2210_201_SeiferthStan_Project4.ChangeSettings.resources
+F:\visual studio 2012\Projects\2210-201-SeiferthStan-Project4\2210-201-SeiferthStan-Project4\obj\Debug\_2210_201_SeiferthStan_Project4.Simulation.resources
+F:\visual studio 2012\Projects\2210-201-SeiferthStan-Project4\2210-201-SeiferthStan-Project4\obj\Debug\_2210_201_SeiferthStan_Project4.Properties.Resources.resources
+F:\visual studio 2012\Projects\2210-201-SeiferthStan-Project4\2210-201-SeiferthStan-Project4\obj\Debug\2210-201-SeiferthStan-Project4.csproj.GenerateResource.Cache
+F:\visual studio 2012\Projects\2210-201-SeiferthStan-Project4\2210-201-SeiferthStan-Project4\obj\Debug\2210-201-SeiferthStan-Project4.exe
+F:\visual studio 2012\Projects\2210-201-SeiferthStan-Project4\2210-201-SeiferthStan-Project4\obj\Debug\2210-201-SeiferthStan-Project4.pdb
